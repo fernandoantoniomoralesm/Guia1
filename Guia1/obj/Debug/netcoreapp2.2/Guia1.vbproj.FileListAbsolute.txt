@@ -1,0 +1,11 @@
+C:\Users\Nor\source\repos\Guia1\Guia1\bin\Debug\netcoreapp2.2\Guia1.deps.json
+C:\Users\Nor\source\repos\Guia1\Guia1\bin\Debug\netcoreapp2.2\Guia1.runtimeconfig.json
+C:\Users\Nor\source\repos\Guia1\Guia1\bin\Debug\netcoreapp2.2\Guia1.runtimeconfig.dev.json
+C:\Users\Nor\source\repos\Guia1\Guia1\bin\Debug\netcoreapp2.2\Guia1.dll
+C:\Users\Nor\source\repos\Guia1\Guia1\bin\Debug\netcoreapp2.2\Guia1.pdb
+C:\Users\Nor\source\repos\Guia1\Guia1\obj\Debug\netcoreapp2.2\Guia1.vbprojAssemblyReference.cache
+C:\Users\Nor\source\repos\Guia1\Guia1\obj\Debug\netcoreapp2.2\Guia1.vbproj.CoreCompileInputs.cache
+C:\Users\Nor\source\repos\Guia1\Guia1\obj\Debug\netcoreapp2.2\Guia1.AssemblyInfoInputs.cache
+C:\Users\Nor\source\repos\Guia1\Guia1\obj\Debug\netcoreapp2.2\Guia1.AssemblyInfo.vb
+C:\Users\Nor\source\repos\Guia1\Guia1\obj\Debug\netcoreapp2.2\Guia1.dll
+C:\Users\Nor\source\repos\Guia1\Guia1\obj\Debug\netcoreapp2.2\Guia1.pdb
